@@ -5,6 +5,6 @@
   <br><br>
   <samp>
 I'm Arnulfo.
-     <br><br>Contact me on <a href="https://twitter.com/arnuIfo_07">Twitter </a> and <a href="https://instagram.com/arnulfo_07">Instagram</a> 
+     <br><br>Contact me on <a href="https://twitter.com/arnuIfo_07">Twitter </a> and <a href="https://instagram.com/jareyes_07">Instagram</a> 
   </samp>
 </p>
