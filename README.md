@@ -1,38 +1,25 @@
-<h1 align="center">Hi there, I'm Arnulfo 👋</h1>
+# Hola, soy Arnulfo Reyes 👋
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
-</p>
+Trabajo en analítica de datos, optimización de procesos y gestión de proyectos. Me interesa construir soluciones claras y mantenibles, y compartir conocimiento a través de la comunidad Python Panamá.
 
-<p align="center">
-  <samp>
-    Developer focused on building clean, maintainable solutions.<br>
-    Always learning, always shipping.
-  </samp>
-</p>
+## En qué me enfoco
 
----
+- **Datos:** análisis para comprender problemas y apoyar la toma de decisiones.
+- **Proyectos:** organización del trabajo y colaboración entre equipos multidisciplinarios.
+- **Comunidad:** proyectos, talleres y eventos para aprender y compartir Python.
 
-### 🛠️ Tech Stack
+## Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,vscode" alt="Tech stack">
-</p>
+Python · JavaScript · TypeScript · React · Node.js · Git · GitHub · VS Code
 
-### 📊 GitHub Stats
+## Biografía
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosef7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosef7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
+Consulta mi [biografía en español](bio/bio_arnulfo.md), con versiones corta y extensa para presentaciones y eventos.
 
-### 📫 Let's Connect
+## Contacto
 
-<p align="center">
-  <a href="https://twitter.com/arnuIfo_07">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/jareyes_07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+- [GitHub · @yosef7](https://github.com/yosef7)
+- [X / Twitter · @arnuIfo_07](https://twitter.com/arnuIfo_07)
+- [Instagram · @jareyes_07](https://instagram.com/jareyes_07)
+
+> Inspiro, conecto y guío a las personas para transformar el futuro juntos.

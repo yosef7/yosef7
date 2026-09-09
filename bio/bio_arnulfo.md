@@ -1,10 +1,12 @@
+# Arnulfo Reyes — Biografía
+
 ## Versión Corta
 
 Arnulfo Reyes es **especialista en analítica avanzada de datos y gestión de proyectos**, con más de 10 años de experiencia en **optimización de procesos** y **liderazgo de equipos multidisciplinarios**. Es graduado de la Maestría en Dirección de Proyectos y Liderazgo Empresarial por la *Quality Leadership University (QLU)* y actualmente cursa la Maestría en Auditoría de Sistemas y Evaluación de Control Informático en la *Universidad Tecnológica de Panamá (UTP)*.
 
 Desde 2016 lidera la **Comunidad de Python Panamá**, impulsando proyectos, talleres y eventos que fomentan el aprendizaje colaborativo, la innovación tecnológica y la formación de nuevos líderes en la región. Su estilo de liderazgo se distingue por **inspirar, conectar y guiar a las personas hacia la acción**, con valores basados en la innovación, el impacto social y una visión de futuro.
 
-Su propósito trasciende lo local: busca consolidar a Python Panamá como un **referente regional** y contribuir al fortalecimiento del ecosistema tecnológico en Latinoamérica.  
+Su propósito trasciende lo local: busca consolidar a Python Panamá como un **referente regional** y contribuir al fortalecimiento del ecosistema tecnológico en Latinoamérica.
 
 **“Inspiro, conecto y guío a las personas para transformar el futuro juntos.”**
 
