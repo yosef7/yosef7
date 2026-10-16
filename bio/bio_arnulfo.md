@@ -18,37 +18,37 @@
 
 ## Versión corta
 
-Arnulfo Reyes inspira, conecta y guía a las personas para que aprendan, compartan lo que saben y crezcan juntas. El rol que más disfruta es el de voluntario: ayudar a otras personas y apoyar a las comunidades tecnológicas, con la disposición de colaborar con iniciativas de cualquier país de Latinoamérica.
+Arnulfo Reyes inspira, conecta y guía a las personas para que aprendan, compartan lo que saben y crezcan juntas. El rol que más disfruta es el de voluntario.
 
-Desde [Python Panamá](https://pythonpanama.org/) impulsa [PyCon Panamá](https://pycon.pa/), [Python Route](https://pythonpanama.org/python-route), [PyCafé](https://pythonpanama.org/blog/python-panama-2024), talleres y espacios de colaboración que acercan la programación, los datos y la inteligencia artificial a estudiantes y profesionales. Su labor busca conectar personas, conocimiento y oportunidades para fortalecer el ecosistema tecnológico de Panamá.
+Se unió a [Python Panamá](https://pythonpanama.org/) en 2014. Como embajador del [Proyecto Fedora](https://fedoraproject.org/wiki/User:Josereyesjdi) conoció comunidades de otros países: fue ponente en [FUDCon LATAM](https://fedoraproject.org/wiki/FUDCon:Puno_2016) (Perú) y participó en [Flock](https://fedoraproject.org/wiki/Flock_2018) (Alemania).
 
-Su participación comunitaria también tiene alcance internacional: ha sido ponente en [Python Brasil](https://www.youtube.com/watch?v=O3r8LN2ITdA) (Brasil), [PyDay Chile](https://pyday.cl/2022/) (Chile) y FUDCon LATAM (Perú), y como parte del [Proyecto Fedora](https://fedoraproject.org/wiki/User:Josereyesjdi) ha participado en Flock (Alemania) y DevConf.US (Estados Unidos).
+En 2019 se sumó al equipo que lidera Python Panamá y fue voluntario en [PyCon Latam](https://2019.pylatam.org/) (México). Después compartió su experiencia como ponente en [Python Brasil](https://www.youtube.com/watch?v=O3r8LN2ITdA) (Brasil) y [PyDay Chile](https://pyday.cl/2022/) (Chile), participó en [DevConf.US](https://devconfus2022.sched.com/) y volvió a servir como voluntario en [PyCon US](https://us.pycon.org/) (Estados Unidos). En 2025 regresó a [PyCon Latam](https://2025.pylatam.org/) (Costa Rica), esta vez como keynote.
 
-En lo profesional, pone al servicio de ese propósito su experiencia en auditoría, tecnología, analítica de datos, automatización y gestión de proyectos, actualmente en [Copa Airlines](https://www.copaair.com/). Posee una maestría en Dirección de Proyectos y Liderazgo Empresarial por [Quality Leadership University (QLU)](https://qlu.ac.pa/).
+En su trabajo se dedica a la auditoría, la tecnología y el análisis de datos en [Copa Airlines](https://www.copaair.com/), y tiene una maestría en Dirección de Proyectos y Liderazgo Empresarial por [Quality Leadership University (QLU)](https://qlu.ac.pa/).
+
+Hoy pone lo aprendido al servicio de los demás. Impulsa [PyCon Panamá](https://pycon.pa/), [Python Route](https://pythonpanama.org/python-route), [PyCafé](https://pythonpanama.org/blog/python-panama-2024) y los [meetups de Python Panamá](https://www.meetup.com/es-ES/Python-Panama/), espacios que acercan la programación, los datos y la inteligencia artificial a estudiantes y profesionales. Siempre está dispuesto a colaborar con comunidades de Panamá, de cualquier parte de Latinoamérica y del mundo.
 
 **“Inspiro, conecto y guío a las personas para transformar el futuro juntos.”**
 
 ## Versión extensa
 
-Arnulfo Reyes es profesional de auditoría, tecnología y análisis de datos en [Copa Airlines](https://www.copaair.com/), además de coordinador de [Python Panamá](https://pythonpanama.org/). Cuenta con más de 10 años de experiencia profesional, durante los cuales ha trabajado en áreas relacionadas con tecnología, análisis de información, automatización de procesos, estadística, auditoría, gestión de proyectos y mejora continua.
+Arnulfo Reyes dedica buena parte de su tiempo a que más personas aprendan a programar y encuentren una comunidad donde crecer. Su rol favorito es el de voluntario: ayudar a otros, compartir lo que sabe y acompañar a quienes organizan espacios de aprendizaje.
 
-Su trayectoria profesional ha evolucionado desde funciones técnicas de soporte y análisis hasta posiciones vinculadas con analítica, auditoría y coordinación, lo que le ha permitido desarrollar una visión integral de cómo la tecnología, los datos y los procesos pueden utilizarse para mejorar la toma de decisiones dentro de las organizaciones.
+Su camino comunitario empezó en 2014, cuando se unió a [Python Panamá](https://pythonpanama.org/). Un año después se convirtió en [embajador del Proyecto Fedora](https://fedoraproject.org/wiki/User:Josereyesjdi), y ese rol lo llevó a conocer comunidades de otros países. Fue ponente en [FUDCon LATAM 2016](https://fedoraproject.org/wiki/FUDCon:Puno_2016), en Puno (Perú), participó en el [Fedora Activity Day 2017](https://yoseft7.wordpress.com/2017/07/27/fad-latam-cusco-2017/) de Cusco (Perú) y asistió a [Flock 2018](https://fedoraproject.org/wiki/Flock_2018) en Dresde (Alemania). Esos encuentros le mostraron cómo trabajan las comunidades internacionales de software libre y código abierto.
 
-Posee una maestría en Dirección de Proyectos y Liderazgo Empresarial por [Quality Leadership University (QLU)](https://qlu.ac.pa/), formación que complementa su experiencia en gestión, planificación, liderazgo y coordinación de equipos multidisciplinarios.
+En 2019 se sumó al equipo que lidera Python Panamá. Ese mismo año fue voluntario en [PyCon Latam 2019](https://2019.pylatam.org/), en Puerto Vallarta (México).
 
-En su trabajo utiliza tecnologías como Python y SQL para analizar información, automatizar procesos y desarrollar soluciones basadas en datos. También trabaja con herramientas de análisis, visualización, procesamiento de datos y control de versiones dentro de entornos empresariales.
+Con esa experiencia empezó a compartir lo aprendido fuera del país. En [Python Brasil 2021](https://2021.pythonbrasil.org.br/) (Brasil) presentó la charla [«Transforma tu vida personal y profesional con Python»](https://www.youtube.com/watch?v=O3r8LN2ITdA), disponible en el canal de YouTube del evento. En [PyDay Chile 2022](https://pyday.cl/2022/) (Chile) habló de por qué vale la pena participar en comunidades de programación, y ese mismo año participó en [DevConf.US 2022](https://devconfus2022.sched.com/), en Boston (Estados Unidos).
 
-Paralelamente a su carrera profesional, participa activamente en la comunidad tecnológica de Panamá. Forma parte de [Python Panamá](https://pythonpanama.org/) desde 2014 y desde 2019 participa en su coordinación y liderazgo, impulsando iniciativas orientadas a hacer el conocimiento tecnológico más accesible y a crear oportunidades de aprendizaje para nuevas generaciones.
+Volvió a servir como voluntario en PyCon US [2023](https://us.pycon.org/2023/) y [2024](https://us.pycon.org/2024/), en Salt Lake City y Pittsburgh (Estados Unidos), una de las conferencias de Python más grandes del mundo.
 
-Desde la comunidad ha participado en la organización de meetups, talleres, conferencias y programas educativos como [PyCon Panamá](https://pycon.pa/), [Python Route](https://pythonpanama.org/python-route) y [PyCafé](https://pythonpanama.org/blog/python-panama-2024), además de actividades realizadas en colaboración con universidades, empresas y organizaciones de tecnología.
+Seis años después de llegar a PyCon Latam como voluntario, volvió a esa conferencia como keynote en [PyCon Latam 2025](https://2025.pylatam.org/), en Puntarenas (Costa Rica).
 
-Su participación internacional incluye su presentación en **Python Brasil 2021**, con la charla [«Transforma tu vida personal y profesional con Python»](https://www.youtube.com/watch?v=O3r8LN2ITdA), disponible en el canal de YouTube de Python Brasil. También participó como ponente en [PyDay Chile 2022](https://pyday.cl/2022/), con una charla sobre la importancia de participar en comunidades de programación.
+En su trabajo se dedica a la auditoría, la tecnología y el análisis de datos en [Copa Airlines](https://www.copaair.com/). Empezó en soporte técnico y análisis, y pasó luego a analítica, auditoría y coordinación de equipos. Usa Python y SQL para analizar información y automatizar procesos. Tiene una maestría en Dirección de Proyectos y Liderazgo Empresarial por [Quality Leadership University (QLU)](https://qlu.ac.pa/), que aplica en la planificación y coordinación de equipos de distintas áreas.
 
-Su [trayectoria documentada en Fedora](https://fedoraproject.org/wiki/User:Josereyesjdi) registra su labor como embajador desde 2015, su participación como ponente en FUDCon LATAM 2016 en Puno, Perú, y su participación en el Fedora Activity Day de Cusco en 2017. También registra su asistencia a Flock 2018 en Dresde, Alemania, y su participación en DevConf.US 2022 en Boston, Estados Unidos. Estas actividades forman parte de su vinculación con las comunidades internacionales de software libre y código abierto.
+Lo que ha recogido en ese camino vuelve a Panamá. Organiza los [meetups de la comunidad](https://www.meetup.com/es-ES/Python-Panama/), talleres y conferencias como [PyCon Panamá](https://pycon.pa/), y programas educativos como [Python Route](https://pythonpanama.org/python-route) y [PyCafé](https://pythonpanama.org/blog/python-panama-2024), muchos de ellos junto con universidades, empresas y organizaciones de tecnología del país. Siempre está dispuesto a colaborar con comunidades e iniciativas de Panamá, de cualquier parte de Latinoamérica y del mundo.
 
-El voluntariado es el rol que más disfruta en su vida comunitaria. Le motiva ayudar a otras personas, compartir lo que sabe y apoyar a quienes organizan espacios de aprendizaje. Esa vocación de servicio trasciende las fronteras de Panamá: está dispuesto a colaborar con comunidades e iniciativas de cualquier país de Latinoamérica.
-
-Su visión de liderazgo parte de una idea sencilla: el conocimiento adquiere mayor valor cuando se comparte.
+Cree que el conocimiento vale más cuando se comparte.
 
 ---
 
